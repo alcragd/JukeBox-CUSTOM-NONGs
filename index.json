@@ -1,24 +1,34 @@
 {
   "manifest": 1,
-  "name": "UG Index",
-  "id": "ug-nongs",
-  "description": "NONGS de la UG",
-  "lastUpdate": 0,
+  "name": "Mi Pack de NONGs",
+  "id": "mi-nong-pack",
+  "description": "Pack actualizado desde la web",
+  "lastUpdate": 1752883094,
   "links": {
-    "discord": "https://discord.gg/tu-enlace-opcional"
+    "discord": ""
   },
   "features": {
     "submit": {
-      "supportedSongTypes": ["hosted"],
-      "preSubmitMessage": "pe",
+      "supportedSongTypes": [
+        "hosted"
+      ],
+      "preSubmitMessage": "Puedes proponer canciones",
       "requestParams": {
-        "url": "https://github.com/alcragd/Spanish-GD-NONGS-Index/issues/new",
+        "url": "https://github.com/tuusuario/tu-repo/issues/new",
         "params": true
       }
     }
   },
   "nongs": {
     "hosted": {
+      "c0efb78f-404f-4cd2-ab7e-0009ba46a774": {
+        "name": "test",
+        "artist": "yo",
+        "startOffset": 0,
+        "url": "ejemplo.com/xd",
+        "songs": [
+          12345
+        ]
       }
     }
   }
