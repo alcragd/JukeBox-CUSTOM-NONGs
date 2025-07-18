@@ -1,0 +1,25 @@
+{
+  "manifest": 1,
+  "name": "UG Index",
+  "id": "ug-nongs",
+  "description": "NONGS de la UG",
+  "lastUpdate": 0,
+  "links": {
+    "discord": "https://discord.gg/tu-enlace-opcional"
+  },
+  "features": {
+    "submit": {
+      "supportedSongTypes": ["hosted"],
+      "preSubmitMessage": "pe",
+      "requestParams": {
+        "url": "https://github.com/alcragd/Spanish-GD-NONGS-Index/issues/new",
+        "params": true
+      }
+    }
+  },
+  "nongs": {
+    "hosted": {
+      }
+    }
+  }
+}
