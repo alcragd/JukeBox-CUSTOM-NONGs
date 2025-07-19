@@ -13,6 +13,7 @@
           url: "https://github.com/alcragd/Spanish-GD-NONGS-Index/issues/new",
           params: true
         }
+      }
     }
   },
   "nongs": {
