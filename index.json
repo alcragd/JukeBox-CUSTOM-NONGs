@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752960594,
+  "lastUpdate": 1752960725,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -308,6 +308,17 @@
         "url": "https://ugsongs.netlify.app/songs/Stalemate%20x%20Lose%20Yourself%20GD%20Mashup.mp3",
         "songs": [
           482872
+        ]
+      },
+      "989542dd-5415-4c14-b0f2-acf97385117e": {
+        "name": "Sonic Blaster x Big Chungus(Endigo) + Hjfod Remix +  Sugar(Maroon 5)",
+        "artist": "alcragd",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/Sonic_Blaster_MashupSugar__Big_Chungus__Hjfod_remix%20(1).mp3",
+        "songs": [
+          574484,
+          976863,
+          908247
         ]
       }
     }
