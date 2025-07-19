@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752896099,
+  "lastUpdate": 1752896207,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -102,6 +102,15 @@
         "url": "https://ugsongs.netlify.app/songs/Crystallize%20rolling%20in%20the%20deep%20mashup.mp3",
         "songs": [
           810618
+        ]
+      },
+      "1d4f6bbd-f2ec-4563-a7a3-3ec356d97cb1": {
+        "name": "Sonorous - Derpcat x El Liston De Tu Pelo - Los Angeles Azules",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/derpcat%20sonorous%20x%20el%20liston%20de%20tu%20pelo%20laa.mp3",
+        "songs": [
+          805724
         ]
       }
     }
