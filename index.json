@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752894202,
+  "lastUpdate": 1752894569,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -39,6 +39,15 @@
           574484,
           976863,
           908247
+        ]
+      },
+      "d6efb7dc-67ff-4fef-8a39-51a39112bcfd": {
+        "name": "Menace x Consuelo en Domingo Album - Enjambre",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/Menace%20CeD%20v4.mp3",
+        "songs": [
+          1304920
         ]
       }
     }
