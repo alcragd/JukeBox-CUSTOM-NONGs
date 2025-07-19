@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752895908,
+  "lastUpdate": 1752896099,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -93,6 +93,15 @@
         "url": "https://ugsongs.netlify.app/songs/creo%20phantasm%20x%20dld%20indiferente.mp3",
         "songs": [
           656850
+        ]
+      },
+      "e561d06c-2c27-41d8-9a84-76b6065eab86": {
+        "name": "Crystallize - Creo x Rolling In The Deep - Adelle",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/Crystallize%20rolling%20in%20the%20deep%20mashup.mp3",
+        "songs": [
+          810618
         ]
       }
     }
