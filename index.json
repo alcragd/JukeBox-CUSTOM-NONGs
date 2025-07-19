@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752895839,
+  "lastUpdate": 1752895908,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -82,6 +82,15 @@
         "artist": "LuDan",
         "startOffset": 0,
         "url": "https://ugsongs.netlify.app/songs/creo%20phantasm%20x%20dld%20indiferente%20%2B%20trompetas.mp3",
+        "songs": [
+          656850
+        ]
+      },
+      "77975d9b-7733-49ea-a151-f323f09ec20e": {
+        "name": "Phantasm - Creo X Indiferente - DLD",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/creo%20phantasm%20x%20dld%20indiferente.mp3",
         "songs": [
           656850
         ]
