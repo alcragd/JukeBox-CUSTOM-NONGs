@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752959355,
+  "lastUpdate": 1752959408,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -250,6 +250,16 @@
         "artist": "LuDan",
         "startOffset": 0,
         "url": "https://ugsongs.netlify.app/songs/the%20calling%20x%20reencuentro%20dld%20voc.mp3",
+        "songs": [
+          677785,
+          678710
+        ]
+      },
+      "c62212d7-6711-4790-96d9-0900e7ee96d4": {
+        "name": "The Calling (Instrumental) x Reencuentro - DLD",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/the%20calling%20x%20reencuentro%20dld.mp3",
         "songs": [
           677785,
           678710
