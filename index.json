@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752959102,
+  "lastUpdate": 1752959355,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -243,6 +243,16 @@
         "url": "https://ugsongs.netlify.app/songs/quevedo%20x%20solar%20flare.mp3",
         "songs": [
           493898
+        ]
+      },
+      "370a88c2-02e1-4b74-8d9e-2ade8e7465d3": {
+        "name": "The Calling (feat. Laura Brehm) x Reencuentro - DLD",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/the%20calling%20x%20reencuentro%20dld%20voc.mp3",
+        "songs": [
+          677785,
+          678710
         ]
       }
     }
