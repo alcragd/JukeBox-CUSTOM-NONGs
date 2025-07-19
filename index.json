@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752959620,
+  "lastUpdate": 1752959980,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -281,6 +281,15 @@
         "url": "https://ugsongs.netlify.app/songs/Phobos%20x%207%20rings.mp3",
         "songs": [
           436814
+        ]
+      },
+      "8eb7752d-4c21-4eab-b202-de7e992709c2": {
+        "name": "2k9 battle jam x Opresion - DLD",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/opresion%20x%202k9%20definitiva.mp3",
+        "songs": [
+          684823
         ]
       }
     }
