@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752896633,
+  "lastUpdate": 1752896875,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -142,6 +142,15 @@
         "url": "https://ugsongs.netlify.app/songs/genesis%20x%20holdin%20on%20mashup.mp3",
         "songs": [
           597997
+        ]
+      },
+      "884b4c9a-0fbc-407b-95e8-a151c7b5b158": {
+        "name": "Live it Alone - CarsonKompon x NonSense - DLD (only dance part)",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/live%20it%20alone%20x%20non%20sense%20dld%20only%20dance%20part.mp3",
+        "songs": [
+          1142580
         ]
       }
     }
