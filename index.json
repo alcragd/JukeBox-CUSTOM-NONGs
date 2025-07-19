@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752896875,
+  "lastUpdate": 1752896958,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -149,6 +149,15 @@
         "artist": "LuDan",
         "startOffset": 0,
         "url": "https://ugsongs.netlify.app/songs/live%20it%20alone%20x%20non%20sense%20dld%20only%20dance%20part.mp3",
+        "songs": [
+          1142580
+        ]
+      },
+      "ce2138db-2dc0-46ff-a933-36e8e263d990": {
+        "name": "Live it Alone - CarsonKompon x NonSense - DLD (only dance low vocals)",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/live%20it%20alone%20x%20non%20sense%20dld%20only%20dance%20voz%20baja.mp3",
         "songs": [
           1142580
         ]
