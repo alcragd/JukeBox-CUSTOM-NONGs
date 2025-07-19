@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752887909,
+  "lastUpdate": 1752893761,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -28,6 +28,15 @@
         "url": "https://ugsongs.netlify.app/songs/At%20The%20Speed%20Of%20Light%20X%20Primario%20(DLD)%20_%20Geometry%20Dash%20Mashup(MP3_160K).mp3",
         "songs": [
           467339
+        ]
+      },
+      "16cff7c3-35d1-4292-b536-20c2ee1e1a86": {
+        "name": "Sonic Blaster X Sabado - DLD (Low Pitch)",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/574484%20(sabado%20low%20pitch)%20(1).mp3",
+        "songs": [
+          574484
         ]
       }
     }
