@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752959980,
+  "lastUpdate": 1752960098,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -290,6 +290,15 @@
         "url": "https://ugsongs.netlify.app/songs/opresion%20x%202k9%20definitiva.mp3",
         "songs": [
           684823
+        ]
+      },
+      "f879b4a0-1cbb-49de-a6d4-b5b893bbf117": {
+        "name": "-API- Paradise on E [REMIX] x Miss You - Oliver Tree",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/PARADISE%20on%20E%20x%20miss%20you%20sigma%20MASHUP.mp3",
+        "songs": [
+          32772
         ]
       }
     }
