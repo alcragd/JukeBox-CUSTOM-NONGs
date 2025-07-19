@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752897461,
+  "lastUpdate": 1752897543,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -196,6 +196,17 @@
         "url": "https://ugsongs.netlify.app/songs/Feel_This_Moment_X_Pepas_FTM_Edition_-_2023%20(2).mp3",
         "songs": [
           2023
+        ]
+      },
+      "61f4f4cf-13e4-44c4-ad32-7a18865bb0c5": {
+        "name": "Sonic Blaster x el otro era yo - rickyedit",
+        "artist": "alcragd",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/ricky%20x%20sw%20final%20(1).mp3",
+        "songs": [
+          574484,
+          976863,
+          908247
         ]
       }
     }
