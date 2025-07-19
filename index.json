@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752959500,
+  "lastUpdate": 1752959620,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -272,6 +272,15 @@
         "url": "https://ugsongs.netlify.app/songs/Pumped%20up%20kicks%20x%20pan%20con%20aji%20low%20pitch.mp3",
         "songs": [
           627121
+        ]
+      },
+      "3d5986d1-f2ba-4095-91b4-02d12d682197": {
+        "name": "Phobos - Solkrieg x 7 Rings - Billie Elish",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/Phobos%20x%207%20rings.mp3",
+        "songs": [
+          436814
         ]
       }
     }
