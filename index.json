@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752958775,
+  "lastUpdate": 1752959005,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -225,6 +225,15 @@
         "url": "https://ugsongs.netlify.app/songs/karma%20xtrullor%20x%20fisica%20y%20quimica%20dld.mp3",
         "songs": [
           747194
+        ]
+      },
+      "b519784d-a86b-4218-845e-64e724a36e4d": {
+        "name": "Pumped Of Kicks x Pan Con Aji - TONGO",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/Pumped%20up%20kicks%20x%20pan%20con%20aji.mp3",
+        "songs": [
+          627121
         ]
       }
     }
