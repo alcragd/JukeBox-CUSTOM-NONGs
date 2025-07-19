@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752896321,
+  "lastUpdate": 1752896391,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -118,6 +118,17 @@
         "artist": "LuDan",
         "startOffset": 0,
         "url": "https://ugsongs.netlify.app/songs/574484%20(sabado%20concopy)%20(1).mp3",
+        "songs": [
+          574484,
+          976863,
+          908247
+        ]
+      },
+      "1d0bcf33-6fd1-4860-b59d-9bf7933def76": {
+        "name": "Sonic Blaster(HJFod) X Sabado - DLD",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/574484%20(sabado%20nocopy)%20(1).mp3",
         "songs": [
           574484,
           976863,
