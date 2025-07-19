@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752897629,
+  "lastUpdate": 1752958775,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -216,6 +216,15 @@
         "url": "https://ugsongs.netlify.app/songs/corrosive%20x%20houdini%202_5.mp3",
         "songs": [
           579560
+        ]
+      },
+      "9f94641c-ddf6-439e-b499-215b03c175bc": {
+        "name": "Xtrullor - Karma x Fisica y Quimica - DLD",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/karma%20xtrullor%20x%20fisica%20y%20quimica%20dld.mp3",
+        "songs": [
+          747194
         ]
       }
     }
