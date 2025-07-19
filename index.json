@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752959458,
+  "lastUpdate": 1752959500,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -267,11 +267,11 @@
       },
       "b99c0ab1-8bd6-4b03-ab99-10bba9ea7663": {
         "name": "Pumped Of Kicks x Pan Con Aji - TONGO (Low Pitch)",
-        "artist": "",
+        "artist": "LuDan",
         "startOffset": 0,
-        "url": "",
+        "url": "https://ugsongs.netlify.app/songs/Pumped%20up%20kicks%20x%20pan%20con%20aji%20low%20pitch.mp3",
         "songs": [
-          0
+          627121
         ]
       }
     }
