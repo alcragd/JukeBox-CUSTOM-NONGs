@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752894765,
+  "lastUpdate": 1752895129,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -57,6 +57,15 @@
         "url": "https://ugsongs.netlify.app/songs/corrosive%20x%20memories%20mashup%20(1).mp3",
         "songs": [
           579560
+        ]
+      },
+      "35c33626-0939-43ce-bca2-e1667dc489d1": {
+        "name": "Cove - Waterflame x Birds of a feather - Billie Eilish",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/cove%20x%20birds%20of%20a%20feather.mp3",
+        "songs": [
+          861866
         ]
       }
     }
