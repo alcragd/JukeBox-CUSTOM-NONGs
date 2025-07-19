@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752897543,
+  "lastUpdate": 1752897629,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -207,6 +207,15 @@
           574484,
           976863,
           908247
+        ]
+      },
+      "355e1f20-8cc7-4d6f-99d5-e7004b1e5215": {
+        "name": "Corrosive x Houdini - Eminem",
+        "artist": "alcragd",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/corrosive%20x%20houdini%202_5.mp3",
+        "songs": [
+          579560
         ]
       }
     }
