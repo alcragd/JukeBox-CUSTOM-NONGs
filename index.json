@@ -3,7 +3,7 @@
   "name": "Mi Pack de NONGs",
   "id": "mi-nong-pack",
   "description": "Pack actualizado desde la web",
-  "lastUpdate": 1752883094,
+  "lastUpdate": 1752883900,
   "links": {
     "discord": ""
   },
@@ -20,16 +20,6 @@
     }
   },
   "nongs": {
-    "hosted": {
-      "c0efb78f-404f-4cd2-ab7e-0009ba46a774": {
-        "name": "test",
-        "artist": "yo",
-        "startOffset": 0,
-        "url": "ejemplo.com/xd",
-        "songs": [
-          12345
-        ]
-      }
-    }
+    "hosted": {}
   }
 }
