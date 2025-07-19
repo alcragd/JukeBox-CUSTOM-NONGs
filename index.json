@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752893761,
+  "lastUpdate": 1752894202,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -36,7 +36,9 @@
         "startOffset": 0,
         "url": "https://ugsongs.netlify.app/songs/574484%20(sabado%20low%20pitch)%20(1).mp3",
         "songs": [
-          574484
+          574484,
+          976863,
+          908247
         ]
       }
     }
