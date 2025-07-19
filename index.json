@@ -1,22 +1,18 @@
 {
-  "manifest": 1,
-  "name": "Mi Pack de NONGs",
-  "id": "mi-nong-pack",
-  "description": "Pack actualizado desde la web",
-  "lastUpdate": 1752883900,
-  "links": {
-    "discord": ""
-  },
-  "features": {
-    "submit": {
-      "supportedSongTypes": [
-        "hosted"
-      ],
-      "preSubmitMessage": "Puedes proponer canciones",
-      "requestParams": {
-        "url": "https://github.com/tuusuario/tu-repo/issues/new",
-        "params": true
-      }
+   manifest: 1,
+    name: "UG NONGS",
+    id: "ug-nong-pack",
+    description: "Indice de nongs de la UG",
+    lastUpdate: Math.floor(Date.now() / 1000),
+    links: { discord: "https://discord.gg/7kY9FhbF8E" },
+    features: {
+      submit: {
+        supportedSongTypes: ["hosted"],
+        preSubmitMessage: "Puedes proponer canciones",
+        requestParams: {
+          url: "https://github.com/alcragd/Spanish-GD-NONGS-Index/issues/new",
+          params: true
+        }
     }
   },
   "nongs": {
