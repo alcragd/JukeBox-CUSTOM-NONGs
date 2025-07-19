@@ -3,13 +3,15 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1721300000,
+  "lastUpdate": 1752887909,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
   "features": {
     "submit": {
-      "supportedSongTypes": ["hosted"],
+      "supportedSongTypes": [
+        "hosted"
+      ],
       "preSubmitMessage": "Puedes proponer canciones",
       "requestParams": {
         "url": "https://github.com/alcragd/Spanish-GD-NONGS-Index/issues/new",
@@ -19,7 +21,15 @@
   },
   "nongs": {
     "hosted": {
-
+      "58cfc431-39a1-4015-9a98-3f7e9c4277c8": {
+        "name": "At The Speed Of Light X Primario (DLD)",
+        "artist": "nessin",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/At%20The%20Speed%20Of%20Light%20X%20Primario%20(DLD)%20_%20Geometry%20Dash%20Mashup(MP3_160K).mp3",
+        "songs": [
+          467339
+        ]
+      }
     }
   }
 }
