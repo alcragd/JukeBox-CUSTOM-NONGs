@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1754182175,
+  "lastUpdate": 1754182229,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -346,6 +346,15 @@
         "artist": "alcragd",
         "startOffset": 0,
         "url": "https://ugsongs.netlify.app/songs/770520_dj-N-Thermodynamix%20x%20caliente%20-%20rickyedit.mp3",
+        "songs": [
+          770520
+        ]
+      },
+      "f0f1042b-9b77-4bed-af8d-64a9dfed2773": {
+        "name": "Thermodynamix x caliente - rickyedit (low pitch)",
+        "artist": "alcragd",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/770520_dj-N-Thermodynamix%20x%20caliente%20-%20rickyedit(low%20pitch).mp3",
         "songs": [
           770520
         ]
