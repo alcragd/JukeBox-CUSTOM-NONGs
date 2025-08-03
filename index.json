@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1752961090,
+  "lastUpdate": 1754182175,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -339,6 +339,15 @@
         "url": "https://ugsongs.netlify.app/songs/carnivores_vivirlavida.mp3",
         "songs": [
           690265
+        ]
+      },
+      "b7181352-6a6c-445c-b88f-97c7f72436bb": {
+        "name": "Thermodynamix x caliente - rickyedit",
+        "artist": "alcragd",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/770520_dj-N-Thermodynamix%20x%20caliente%20-%20rickyedit.mp3",
+        "songs": [
+          770520
         ]
       }
     }
