@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1754182229,
+  "lastUpdate": 1754773957,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -357,6 +357,15 @@
         "url": "https://ugsongs.netlify.app/songs/770520_dj-N-Thermodynamix%20x%20caliente%20-%20rickyedit(low%20pitch).mp3",
         "songs": [
           770520
+        ]
+      },
+      "611dc339-f727-4117-97c2-18c098ced48f": {
+        "name": "Jomekka - EightOHHH TIO OHHHHHH",
+        "artist": "XDD",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/eightohh%20tio%20ohhh.mp3",
+        "songs": [
+          624882
         ]
       }
     }
