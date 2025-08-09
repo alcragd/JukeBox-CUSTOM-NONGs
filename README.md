@@ -1,7 +1,4 @@
-
-
 # JukeBox-CUSTOM-NONGs
-
 
 Este repositorio contiene un archivo `.json` que actúa como índice de canciones *NONG* (Not On Newgrounds) para el mod **JukeBox** de *Geometry Dash*. El archivo organiza y almacena metadatos relevantes de cada canción, como título, autor, duración y enlace de descarga, permitiendo una integración sencilla y personalizada de pistas musicales en el juego a través del mod.
 
@@ -10,6 +7,8 @@ Este repositorio contiene un archivo `.json` que actúa como índice de cancione
 # UG INDEX
 
 El archivo `ug_index.json` recopila mashups/NONGs creados por mí y mis amigos, los cuales no están disponibles en Song File Hub.
+
+[Ver canciones subidas al UG INDEX](https://ugsongs.netlify.app/)
 
 ## Instrucciones
 
