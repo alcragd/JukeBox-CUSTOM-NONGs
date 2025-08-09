@@ -9,7 +9,7 @@ Este repositorio está destinado al almacenamiento de NONGs personalizados para 
 Para integrar el *UG INDEX* en JukeBox, añade el siguiente enlace en la sección *Indexes* dentro de los ajustes del mod:
 
 ```
-[https://raw.githubusercontent.com/alcragd/Spanish-GD-NONGS-Index/main/index.json](https://raw.githubusercontent.com/alcragd/JukeBox-CUSTOM-NONGs/main/ug_index.json)
+https://raw.githubusercontent.com/alcragd/JukeBox-CUSTOM-NONGs/main/ug_index.json
 ```
 
 ## Crear tu propio índice
