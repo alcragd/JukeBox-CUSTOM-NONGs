@@ -2,7 +2,9 @@
 
 # JukeBox-CUSTOM-NONGs
 
-Este repositorio está destinado al almacenamiento de NONGs personalizados para JukeBox, con un enfoque especial en mashups creados por mí y por amigos, los cuales podrían no estar disponibles en la base de datos oficial de SFXHub (SFH).
+
+
+Este repositorio contiene un archivo `.json` que actúa como índice de canciones *NONG* (Not On Newgrounds) para el mod **JukeBox** de *Geometry Dash*. El archivo organiza y almacena metadatos relevantes de cada canción, como título, autor, duración y enlace de descarga, permitiendo una integración sencilla y personalizada de pistas musicales en el juego a través del mod.
 
 ## Instrucciones
 
