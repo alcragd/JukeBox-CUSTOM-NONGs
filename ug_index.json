@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1754809063,
+  "lastUpdate": 1754810988,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -402,6 +402,17 @@
         "artist": "alcragd",
         "startOffset": 0,
         "url": "https://ugsongs.netlify.app/songs/skibidi_blaster__hjfod.mp3",
+        "songs": [
+          574484,
+          976863,
+          908247
+        ]
+      },
+      "292c6014-4531-4b46-be3e-5c5f46bcea7f": {
+        "name": "Sonic Blaster x Tetris Rap",
+        "artist": "Millher",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/Sonic%20Blaster%20X%20Tetris%20Rap.mp3",
         "songs": [
           574484,
           976863,
