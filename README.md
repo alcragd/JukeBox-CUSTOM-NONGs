@@ -15,7 +15,7 @@ El archivo `ug_index.json` recopila mashups/NONGs creados por mí y mis amigos, 
 Para integrar el **UG INDEX** en JukeBox, añade el siguiente enlace en la sección *Indexes* dentro de los ajustes del mod:
 
 ```
-https://raw.githubusercontent.com/alcragd/JukeBox-CUSTOM-NONGs/main/ug_index.json
+https://raw.githubusercontent.com/alcragd/JukeBox-CUSTOM-NONGs/main/dist/ug_index.min.json
 ```
 <img width="640" height="369" alt="tutorial" src="https://github.com/user-attachments/assets/6eae1d86-f44e-4421-98c1-e02952b4851e" />
 
