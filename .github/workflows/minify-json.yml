@@ -1,31 +1,34 @@
-name: Minify JSON
+name: Minify ug_index.json to /dist/ug_index.min.json
 
 on:
   push:
+    paths:
+      - 'ug_index.json'
+  pull_request:
     paths:
       - 'ug_index.json'
 
 jobs:
   minify:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Create dist directory
+      - name: Ensure dist folder exists
         run: mkdir -p dist
 
-      - name: Minify ug_index.json using jq
+      - name: Minify ug_index.json
         run: jq -c . ug_index.json > dist/ug_index.min.json
 
-      - name: Commit and push minified JSON
+      - name: Check for changes and commit if needed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
           if ! git diff --quiet dist/ug_index.min.json; then
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git config --global user.name "github-actions[bot]"
             git add dist/ug_index.min.json
-            git commit -m "Update minified ug_index.json in /dist"
+            git commit -m "chore: minify ug_index.json automatically"
             git push
+          else
+            echo "No changes to commit"
           fi
