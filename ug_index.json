@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1754808797,
+  "lastUpdate": 1754809063,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -391,6 +391,17 @@
         "artist": "alcragd",
         "startOffset": 0,
         "url": "https://ugsongs.netlify.app/songs/SkibidiBlaster_Loud_vocals.mp3",
+        "songs": [
+          574484,
+          976863,
+          908247
+        ]
+      },
+      "748ce8b4-da3a-49f9-917e-d1389ef3362f": {
+        "name": "Sonic Blaster x Bloody Mary Skibidi Toilet + HJFod",
+        "artist": "alcragd",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/skibidi_blaster__hjfod.mp3",
         "songs": [
           574484,
           976863,
