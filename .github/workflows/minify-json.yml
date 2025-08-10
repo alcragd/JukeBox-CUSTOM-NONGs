@@ -24,14 +24,17 @@ jobs:
       - name: Minify ug_index.json
         run: jq -c . ug_index.json > dist/ug_index.min.json
 
-      - name: Check for changes and commit if needed
+      - name: Commit and push minified JSON
         run: |
-          if ! git diff --quiet dist/ug_index.min.json; then
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git config --global user.name "github-actions[bot]"
-            git add dist/ug_index.min.json
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add dist/ug_index.min.json
+
+          # Solo comitear si el archivo es nuevo o cambió
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
             git commit -m "chore: minify ug_index.json automatically"
             git push
-          else
-            echo "No changes to commit"
           fi
