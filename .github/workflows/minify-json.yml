@@ -1,0 +1,39 @@
+name: Minify JSON
+
+on:
+  push:
+    paths:
+      - 'ug_index.json'
+
+jobs:
+  minify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install JSON minifier
+        run: npm install -g jsonminify
+
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: Minify ug_index.json into /dist/ug_index.min.json
+        run: jsonminify ug_index.json > dist/ug_index.min.json
+
+      - name: Commit and push minified JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if ! git diff --quiet dist/ug_index.min.json; then
+            git add dist/ug_index.min.json
+            git commit -m "Update minified ug_index.json in /dist"
+            git push
+          fi
