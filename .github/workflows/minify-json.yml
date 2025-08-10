@@ -13,19 +13,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 18
-
-      - name: Install JSON minifier
-        run: npm install -g jsonminify
-
       - name: Create dist directory
         run: mkdir -p dist
 
-      - name: Minify ug_index.json into /dist/ug_index.min.json
-        run: jsonminify ug_index.json > dist/ug_index.min.json
+      - name: Minify ug_index.json using jq
+        run: jq -c . ug_index.json > dist/ug_index.min.json
 
       - name: Commit and push minified JSON
         run: |
