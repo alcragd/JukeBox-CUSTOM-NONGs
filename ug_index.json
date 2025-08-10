@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1754780176,
+  "lastUpdate": 1754789960,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -384,6 +384,28 @@
         "url": "https://ugsongs.netlify.app/songs/Death%20Moon%20x%20A%20Little%20Piece%20Of%20Heaven_mixed.mp3",
         "songs": [
           685746
+        ]
+      },
+      "b4fa4b02-1248-406f-b2ac-3f6c98c948d2": {
+        "name": "Sonic Blaster x Bloody Mary Skibidi Toilet",
+        "artist": "alcragd",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/SkibidiBlaster_Loud_vocals.mp3",
+        "songs": [
+          574484,
+          976863,
+          908247
+        ]
+      },
+      "9b9898f5-daf9-460d-83a0-2d904fcbef86": {
+        "name": "Sonic Blaster x Bloody Mary Skibidi Toilet + HJFod",
+        "artist": "alcragd",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/skibidi_blaster__hjfod.mp3",
+        "songs": [
+          574484,
+          976863,
+          908247
         ]
       }
     }
