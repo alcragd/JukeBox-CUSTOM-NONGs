@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1754810988,
+  "lastUpdate": 1755046297,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -417,6 +417,96 @@
           574484,
           976863,
           908247
+        ]
+      },
+      "bf298b05-020f-4bfd-af6a-1e31af7da8dd": {
+        "name": "Dimension x Pilates - AriaBela",
+        "artist": "alcragd",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/709578_Dimension%20x%20Pilates%20-%20AriaBela.mp3",
+        "songs": [
+          709578
+        ]
+      },
+      "d3d2353b-193a-4548-aacc-3ed7ee3aac24": {
+        "name": "Silentroom - Nhelv x The Contract - Twenty One Pilots",
+        "artist": "Arthing",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/Nhelv%20X%20The%20contract.mp3",
+        "songs": [
+          812038
+        ]
+      },
+      "3535a918-1feb-4d87-8803-f190de7187fd": {
+        "name": "Enjambre - Nudo",
+        "artist": "LuDan (NONG)",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/Enjambre%20Nudo.mp3",
+        "songs": [
+          521730
+        ]
+      },
+      "661a747c-3359-407e-960c-db6ad5684dfe": {
+        "name": "Aitana y Zzoilo - Mon Amour Remix",
+        "artist": "LuDan (NONG)",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/32602.mp3",
+        "songs": [
+          32602
+        ]
+      },
+      "e160b0bf-ca82-435b-82dd-b27794602cc0": {
+        "name": "Todo Cuenta - DLD",
+        "artist": "LuDan (NONG)",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/1252746.mp3",
+        "songs": [
+          1252746
+        ]
+      },
+      "933ec5ca-4c1b-4488-8815-e22f65c8a8ab": {
+        "name": "Miguel Bose - Encanto",
+        "artist": "LuDan (NONG)",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/Encanto%20Miguel%20Bose.mp3",
+        "songs": [
+          902453
+        ]
+      },
+      "30e89e93-71ce-49c5-a208-951a252fe851": {
+        "name": "Enjambre - Intruso",
+        "artist": "LuDan (NONG)",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/Intruso%20Enjambre.mp3",
+        "songs": [
+          1068826
+        ]
+      },
+      "ac5c9419-0245-4af6-a0c6-809aa3184849": {
+        "name": "Enjambre - Angustias",
+        "artist": "LuDan (NONG)",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/Enjambre%20Angustias.mp3",
+        "songs": [
+          671993
+        ]
+      },
+      "3a8ba50a-c82f-491d-8304-4c4b21f7a745": {
+        "name": "Reencuentro - DLD",
+        "artist": "LuDan (NONG)",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/dld%20reencuentro.mp3",
+        "songs": [
+          442295
+        ]
+      },
+      "de655c61-cc8c-4adf-92e4-77bd38683ee1": {
+        "name": "DLD - Mecanica",
+        "artist": "LuDan (NONG)",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/DLD%20Mecanica.mp3",
+        "songs": [
+          81259
         ]
       }
     }
