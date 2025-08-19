@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1755061433,
+  "lastUpdate": 1755568782,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -560,6 +560,16 @@
           81259
         ],
         "isMashup": false
+      },
+      "ead09b1f-37a5-4e6b-8c96-1f748a99d494": {
+        "name": "Thermodynamix x DLD",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/Thermodynamix%20mashup%20dld.mp3",
+        "songs": [
+          770520
+        ],
+        "isMashup": true
       }
     }
   }
