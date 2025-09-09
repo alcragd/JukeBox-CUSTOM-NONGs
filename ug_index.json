@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1756591050,
+  "lastUpdate": 1757383696,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -365,16 +365,6 @@
         ],
         "isMashup": true
       },
-      "b195b43f-4665-4cd8-81df-52b28b6a1c50": {
-        "name": "Creo - Carnivores x Vivir Mi Vida - Marc Anthony",
-        "artist": "NirumaGD",
-        "startOffset": 0,
-        "url": "https://ugsongs.netlify.app/songs/carnivores_vivirlavida.mp3",
-        "songs": [
-          690265
-        ],
-        "isMashup": true
-      },
       "b7181352-6a6c-445c-b88f-97c7f72436bb": {
         "name": "Thermodynamix x caliente - rickyedit",
         "artist": "alcragd",
@@ -578,6 +568,16 @@
         "url": "https://ugsongs.netlify.app/songs/creo%20-%20sphere%20x%20lo%20siento%20-%20rickyedit.mp3",
         "songs": [
           739991
+        ],
+        "isMashup": true
+      },
+      "f0aa929c-613e-4935-89d0-6f5e955527bb": {
+        "name": "Creo - Carnivores x Vivir Mi Vida - Marc Anthony",
+        "artist": "NirumaGD",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/%5BMASHUP%5D%20Creo%20-%20Carnivores%20X%20Marx%20Anthony%20-%20Vivir%20mi%20vida.mp3",
+        "songs": [
+          690265
         ],
         "isMashup": true
       }
