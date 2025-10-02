@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1759372882,
+  "lastUpdate": 1759372984,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -573,17 +573,17 @@
       },
       "f0aa929c-613e-4935-89d0-6f5e955527bb": {
         "name": "Creo - Carnivores x Vivir Mi Vida - Marc Anthony",
-        "artist": "NirumaGD (NONG)",
+        "artist": "NirumaGD",
         "startOffset": 0,
         "url": "https://ugsongs.netlify.app/songs/%5BMASHUP%5D%20Creo%20-%20Carnivores%20X%20Marx%20Anthony%20-%20Vivir%20mi%20vida.mp3",
         "songs": [
           690265
         ],
-        "isMashup": false
+        "isMashup": true
       },
       "3fbbd7fd-1c8c-4e2d-9faa-626f294131d4": {
         "name": "Anoche - Monte Carlo",
-        "artist": "alcragd(NONG)",
+        "artist": "alcragd (NONG)",
         "startOffset": 0,
         "url": "https://ugsongs.netlify.app/songs/Monte%20Carlo%20-%20Anoche%20(Letra%20Oficial).mp3",
         "songs": [
