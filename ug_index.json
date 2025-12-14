@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1765753269,
+  "lastUpdate": 1765753285,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -617,7 +617,7 @@
         "startOffset": 0,
         "url": "https://ugsongs.netlify.app/songs/Familia%20P.Luche.mp3",
         "songs": [
-          676769
+          1497667
         ],
         "isMashup": false
       }
