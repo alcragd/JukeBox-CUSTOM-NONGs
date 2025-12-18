@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1766020475,
+  "lastUpdate": 1766021325,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -593,13 +593,13 @@
       },
       "44271873-edcb-41fc-ba39-df8e0866ec7f": {
         "name": "Vecinos",
-        "artist": "Jorge Jurado & Sergio Jurado",
+        "artist": "Jorge Jurado & Sergio Jurado (NONG)",
         "startOffset": 0,
         "url": "https://ugsongs.netlify.app/songs/Vecinos%20%20Soundtrack%2001.mp3",
         "songs": [
           22222
         ],
-        "isMashup": true
+        "isMashup": false
       },
       "02563de4-e919-44ea-9f60-ab3362ecfbb6": {
         "name": "Ohh tio ohhhhhhhh",
