@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1768338954,
+  "lastUpdate": 1768342880,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -628,6 +628,16 @@
         "url": "https://ugsongs.netlify.app/songs/Wonderpunch%20x%20Californica.mp3",
         "songs": [
           530913
+        ],
+        "isMashup": true
+      },
+      "da824ced-4ba2-443b-8dbe-f3feb51706c2": {
+        "name": "Sphere x La Cancion Que Te Escribi - Monte Carlo, Tufic",
+        "artist": "alcragd",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/lcqte_sphere_2.mp3",
+        "songs": [
+          739991
         ],
         "isMashup": true
       }
