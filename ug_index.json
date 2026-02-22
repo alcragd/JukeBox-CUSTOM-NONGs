@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1771745732,
+  "lastUpdate": 1771746680,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -654,12 +654,12 @@
         "isMashup": true
       },
       "968603d9-88d6-47ee-8aa9-a8670154b547": {
-        "name": "epstein electroman",
+        "name": "No Soy Fan de Epstein Chaval x Electroman Adventures",
         "artist": "millher",
         "startOffset": 0,
         "url": "https://ugsongs.netlify.app/songs/968603d9-88d6-47ee-8aa9-a8670154b547.mp3",
         "songs": [
-          1234
+          12
         ],
         "isMashup": true
       }
