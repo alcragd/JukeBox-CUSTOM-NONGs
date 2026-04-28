@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1775774831,
+  "lastUpdate": 1777418773,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -640,6 +640,16 @@
         "url": "https://ugsongs.netlify.app/songs/355e1f20-8cc7-4d6f-99d5-e7004b1e5215.mp3",
         "songs": [
           579560
+        ],
+        "isMashup": true
+      },
+      "268a45af-dd68-4cb1-81e0-ca40723600f1": {
+        "name": "Bastion Lockyn x La Tormenta - Aleks Syntek, Moenia",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/268a45af-dd68-4cb1-81e0-ca40723600f1.mp3",
+        "songs": [
+          526669
         ],
         "isMashup": true
       }
