@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1777946180,
+  "lastUpdate": 1780863537,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -660,6 +660,16 @@
         "url": "https://ugsongs.netlify.app/songs/0a8a1ab5-7735-440e-a573-1c56fe9afaea.mp3",
         "songs": [
           1266014
+        ],
+        "isMashup": true
+      },
+      "58f57df8-cede-473c-84fe-f3058aca259f": {
+        "name": "Creo - Flow x A New Kind of Love - Frou Frou",
+        "artist": "millher",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/58f57df8-cede-473c-84fe-f3058aca259f.mp3",
+        "songs": [
+          1132447
         ],
         "isMashup": true
       }
