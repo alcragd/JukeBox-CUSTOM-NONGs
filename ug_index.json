@@ -3,7 +3,7 @@
   "name": "UG NONGS",
   "id": "ug-nong-pack",
   "description": "Indice de nongs de la UG",
-  "lastUpdate": 1789864050,
+  "lastUpdate": 1790542169,
   "links": {
     "discord": "https://discord.gg/7kY9FhbF8E"
   },
@@ -712,6 +712,16 @@
         "url": "https://ugsongs.netlify.app/songs/86be77a9-f805-4c7d-bbf5-8eb01555dbdd.mp3",
         "songs": [
           1132447
+        ],
+        "isMashup": true
+      },
+      "90efd8a0-90ad-43ac-926d-4a8c5e9cbaf5": {
+        "name": "Meganeko - Nano Love x Prohibido Besar - Moenia",
+        "artist": "LuDan",
+        "startOffset": 0,
+        "url": "https://ugsongs.netlify.app/songs/90efd8a0-90ad-43ac-926d-4a8c5e9cbaf5.mp3",
+        "songs": [
+          684651
         ],
         "isMashup": true
       }
